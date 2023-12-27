@@ -1,0 +1,13 @@
+.main-container{
+    margin:  auto;
+    width: 50%;
+}
+.bar-container{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    background: white;
+    width: 38vh;
+    border: black;
+    border-radius: 1px;
+}
